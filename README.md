@@ -1,2 +1,2 @@
 # Hamming-Python
-Hamming Weight and Hamming Distance Calculation in Python
+Hamming Weight and Hamming Distance functions in Python
