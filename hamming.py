@@ -1,4 +1,7 @@
+"""Hamming Weight and Hamming Distance functions for integer values."""
+
 def main():
+    """Demo usage of functions."""
     print("Hamming Weight of integer {0} is: {1}.".format(9741, hw(9741)))
     print("Hamming Distance of integers {0} and {1} is: {2}.".format(106, 219, hd(106, 219)))
 
